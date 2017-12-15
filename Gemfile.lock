@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    googler (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  googler
+
+BUNDLED WITH
+   1.16.0
